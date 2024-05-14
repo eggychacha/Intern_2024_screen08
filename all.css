@@ -125,3 +125,9 @@ p.price {
   border: 0;
   border-radius: 15px;
 }
+.btn {
+  padding: 0;
+}
+.overflow-auto {
+  height: 60px;
+}
