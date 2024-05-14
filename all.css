@@ -113,20 +113,15 @@ p.price {
   position: relative;
 }
 
-/* .checkoutBtn a {
-  width: 100%;
-  color: #fefefe;
-  font-size: 17px;
-  font-weight: 500;
-  line-height: 1.1;
-  padding-top: 15px;
-  padding-bottom: 41px;
-} */
-
 .home a {
   text-decoration: none;
   font-size: 11px;
   font-weight: 500;
   line-height: 1.1;
   color: #9775fa;
+}
+.image-container .btn {
+  padding: 0;
+  border: 0;
+  border-radius: 15px;
 }
